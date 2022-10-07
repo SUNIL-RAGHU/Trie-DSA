@@ -1,18 +1,22 @@
 ﻿<Properties StartupConfiguration="{B66455AE-AEFE-4FC8-B3C0-9EAF03B457CD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.trie PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="trie/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="trie/Xor.cs">
     <Files>
       <File FileName="trie/Program.cs" Line="111" Column="1" />
-      <File FileName="trie/EmptyClass.cs" Line="145" Column="1" />
-      <File FileName="trie/trie3.cs" Line="59" Column="7" />
-      <File FileName="trie/Solution.cs" Line="14" Column="48" />
+      <File FileName="trie/EmptyClass.cs" Line="19" Column="17" />
+      <File FileName="trie/trie3.cs" Line="17" Column="22" />
+      <File FileName="trie/Solution.cs" Line="9" Column="1" />
+      <File FileName="trie/Xor.cs" Line="35" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="trie" expanded="True">
             <Node name="trie" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Xor.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,10 +26,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
